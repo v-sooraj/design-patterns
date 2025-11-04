@@ -1,15 +1,15 @@
-package com.strategypattern.test;
+package com.ducksim.test;
 
-import com.strategypattern.ducks.DecoyDuck;
-import com.strategypattern.ducks.MallardDuck;
-import com.strategypattern.ducks.RedheadDuck;
-import com.strategypattern.ducks.RubberDuck;
-import com.strategypattern.fly.FlyNoWay;
-import com.strategypattern.fly.FlyWithJetPack;
-import com.strategypattern.fly.FlyWithWings;
-import com.strategypattern.quack.MuteQuack;
-import com.strategypattern.quack.Quack;
-import com.strategypattern.quack.Squeak;
+import com.ducksim.ducks.DecoyDuck;
+import com.ducksim.ducks.MallardDuck;
+import com.ducksim.ducks.RedheadDuck;
+import com.ducksim.ducks.RubberDuck;
+import com.ducksim.fly.FlyNoWay;
+import com.ducksim.fly.FlyWithJetPack;
+import com.ducksim.fly.FlyWithWings;
+import com.ducksim.quack.MuteQuack;
+import com.ducksim.quack.Quack;
+import com.ducksim.quack.Squeak;
 
 public class DucksInPoolTest {
 

@@ -1,6 +1,6 @@
-package com.strategypattern.fly;
+package com.ducksim.fly;
 
-import com.strategypattern.behaviour.FlyBehaviour;
+import com.ducksim.behaviour.FlyBehaviour;
 
 public class FlyNoWay implements FlyBehaviour {
 
