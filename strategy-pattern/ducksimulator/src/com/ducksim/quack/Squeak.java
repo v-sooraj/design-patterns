@@ -1,6 +1,6 @@
-package com.strategypattern.quack;
+package com.ducksim.quack;
 
-import com.strategypattern.behaviour.QuackBehaviour;
+import com.ducksim.behaviour.QuackBehaviour;
 
 public class Squeak implements QuackBehaviour {
 
